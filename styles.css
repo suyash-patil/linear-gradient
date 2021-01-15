@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+#grad {
+    text-align: center;
+    background: linear-gradient(to right, rgb(212, 28, 200), rgb(0, 170, 255));
+}
+
+h1 {
+    font-size: 4rem;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: 'Open Sans','Times New Roman', Times, serif;
+}
+h2 {
+    font-size: 2rem;
+    margin-top: 10px;
+    font-family: 'Open Sans','Times New Roman', Times, serif;
+}
+h3 {
+    font-family: 'Roboto','Times New Roman', Times, serif;   
+}
